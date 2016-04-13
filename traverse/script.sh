@@ -1,3 +1,4 @@
+ #!/bin/bash
 
 # See http://stackoverflow.com/questions/5119946/find-exec-with-multiple-commands
 # for more information about find
