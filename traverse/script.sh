@@ -1,6 +1,6 @@
  #!/bin/bash
 
-# See http://stackoverflow.com/questions/5119946/find-exec-with-multiple-commands
+# See http://stackoverflow.com/questions/5119946/find-exec-with-multiple-commands
 # for more information about find
 
 # Display recursively all the lines containing 'function' in the project folder
